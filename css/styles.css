@@ -1,0 +1,39 @@
+.container {
+    width: 1170px;
+}
+.work-place {
+
+}
+#formatedData {
+    background-color: #eee;
+    padding: 10px 20px 20px;
+    border-radius: 4px;
+}
+#formatedData label {
+    width: 120px;
+}
+#userFullName.error {
+    border-color: red;
+}
+.error-message {
+    color: red;
+}
+.modal-header {
+    border-bottom: none;
+}
+.modal-body {
+    padding: 0 40px 40px;
+}
+.modal-dialog .close {
+    float: right;
+}
+.modal-dialog {
+    width: 400px !important;
+    margin: 30px auto;
+}
+#myModal .modal-dialog {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -300px;
+}
